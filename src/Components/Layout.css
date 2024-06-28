@@ -1,0 +1,7 @@
+.nav-bar{
+    display: flex;
+    padding: 15px;
+    list-style-type: none;
+    justify-content: space-evenly;
+   
+}
